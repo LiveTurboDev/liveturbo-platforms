@@ -14,7 +14,7 @@
 
 | Платформа | Ссылка | Примечание |
 |-----------|--------|------------|
-| 💻 **Windows 10/11** (64-бит) | [LiveTurbo-Setup-1.0.7-amd64.exe](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-1.0.7-amd64.exe) | Обновляется прямо в приложении |
+| 💻 **Windows 10/11** (64-бит) | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) | Версия 1.0.7 · 24 МБ · обновляется прямо в приложении |
 | 🤖 **Android** (Google Play) | [Установить](https://play.google.com/store/apps/details?id=ru.liveturbo.app) | Рекомендуется — автообновление через Маркет |
 | 🤖 **Android** (APK) | [Live Turbo 0.7.11](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v0.7.11) | Для устройств без Google Play |
 | 🍏 **iOS** | 🛠 в разработке | — |
@@ -24,7 +24,8 @@
 
 ## Установка на Windows
 
-1. Скачайте `LiveTurbo-Setup-1.0.7-amd64.exe` из [последнего релиза](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest).
+1. Скачайте установщик: [постоянная ссылка на последнюю версию](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe).
+   Она всегда ведёт на свежую сборку, её можно давать людям один раз и не менять.
 2. Запустите файл. Windows спросит разрешение на запуск от имени администратора — оно нужно, чтобы приложение
    могло создать сетевой адаптер и направить через него трафик.
 3. Если появится синее окно «Windows защитила ваш компьютер» — нажмите «Подробнее» → «Выполнить в любом случае».
@@ -52,7 +53,7 @@ APK-версия обновляется сама: приложение пров�
 Проверить скачанный файл можно в PowerShell:
 
 ```powershell
-Get-FileHash .\LiveTurbo-Setup-1.0.7-amd64.exe -Algorithm SHA256
+Get-FileHash .\LiveTurbo-Setup-amd64.exe -Algorithm SHA256
 ```
 
 Сумма версии 1.0.7: `00f0bd46a5d575389f674100ab5a322a3b833df9188008bb2d7104c088ca4cba`
