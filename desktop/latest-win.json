@@ -3,6 +3,6 @@
   "versionName": "1.0.0",
   "arch": "amd64",
   "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.0/LiveTurbo-Setup-1.0.0-amd64.exe",
-  "sha256": "7ccd21b5945edca347e6526cb2d7830eb7ba20405310d05e5f6efa701f22467a",
+  "sha256": "80ed14d72581ae742a214fbc18258a51b44625969e1c138b02abcce4546df841",
   "notes": "Первая версия LiveTurbo для Windows:\n— весь трафик через VPN или системный прокси\n— выбор приложений: какие через VPN, какие напрямую\n— кабинет прямо в приложении: подписка, устройства, оплата, поддержка\n— вход по почте, Telegram, Google и Яндекс"
 }
