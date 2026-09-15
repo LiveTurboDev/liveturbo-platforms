@@ -1,8 +1,8 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
+  "versionCode": 5,
+  "versionName": "1.0.4",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.1/LiveTurbo-Setup-1.0.1-amd64.exe",
-  "sha256": "22acae62d33dca7880acfd8e4f2f5a952332d173312959ce48a1c98b1231a580",
-  "notes": "— до входа больше не показываются чужие данные (отключены демо-данные в сборке)\n— вернулись кнопки входа через Google и Яндекс\n— «Профиль повреждён» → подписка обновляется сама и подключение повторяется\n— окно 900×700 под новую компоновку"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.4/LiveTurbo-Setup-1.0.4-amd64.exe",
+  "sha256": "c6a8a30007efab94f2a92ab8016bc227220b681f45662bf478f7989b0dab700f",
+  "notes": "— Google и Яндекс первыми на экране входа, код Яндекса можно скопировать\n— ссылки (Telegram, оплата) действительно открываются\n— после входа в другой аккаунт подписка перечитывается: устройства и продление показываются верно\n— тарифы читаются построчно\n— пинг без ложных 0–1 мс"
 }
