@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.0.11",
+  "versionCode": 13,
+  "versionName": "1.0.12",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.11/LiveTurbo-Setup-1.0.11-amd64.exe",
-  "sha256": "3a9c301fe44816e117fda58415c2e7f908040da00478927c6d5b39ff29d815a6",
-  "notes": "— вход через Telegram: бот открывается сам и правильным способом\n— «вход уже запущен» больше не тупик\n— «Получить новый код» выдаёт действительно новый код"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.12/LiveTurbo-Setup-1.0.12-amd64.exe",
+  "sha256": "2b6275478a40fc8b863aa919b244fdb405b9a2a9265523a15254ec8d2346c9f7",
+  "notes": "— проверка обновлений раз в 2 часа, уведомление один раз на версию\n— видно, если обновление не установилось\n— не сыплет уведомлениями о старых обращениях при входе\n— поправлена вёрстка входа через Telegram"
 }
