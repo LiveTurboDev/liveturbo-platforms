@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.0.6",
+  "versionCode": 8,
+  "versionName": "1.0.7",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.6/LiveTurbo-Setup-1.0.6-amd64.exe",
-  "sha256": "f5632aad3e45c9093d385e4344a8fd4e6ccd62010f0e1afa140d64867eac0a5a",
-  "notes": "— подключение не падает с «Профиль повреждён» на свежей установке\n— удалённое устройство больше не возвращается в список\n— понятная ошибка при лимите устройств или неактивной подписке"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.7/LiveTurbo-Setup-1.0.7-amd64.exe",
+  "sha256": "00f0bd46a5d575389f674100ab5a322a3b833df9188008bb2d7104c088ca4cba",
+  "notes": "— пинг как у других клиентов: замер привязан к сетевой карте, а не идёт через прокси\n— подключение не падает с «Профиль повреждён» на свежей установке\n— удалённое устройство больше не возвращается в список"
 }
