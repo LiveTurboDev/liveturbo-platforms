@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.4/LiveTurbo-Setup-1.0.4-amd64.exe",
-  "sha256": "c6a8a30007efab94f2a92ab8016bc227220b681f45662bf478f7989b0dab700f",
-  "notes": "— Google и Яндекс первыми на экране входа, код Яндекса можно скопировать\n— ссылки (Telegram, оплата) действительно открываются\n— после входа в другой аккаунт подписка перечитывается: устройства и продление показываются верно\n— тарифы читаются построчно\n— пинг без ложных 0–1 мс"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.5/LiveTurbo-Setup-1.0.5-amd64.exe",
+  "sha256": "460592bbeb9db389964fbb46890ff5317f39220bd138c46740b5501e60bb6409",
+  "notes": "— сервер «АВТОВЫБОР» из подписки снова в списке, имя и флаг как в панели"
 }
