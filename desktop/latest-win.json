@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.7/LiveTurbo-Setup-1.0.7-amd64.exe",
-  "sha256": "00f0bd46a5d575389f674100ab5a322a3b833df9188008bb2d7104c088ca4cba",
-  "notes": "— пинг как у других клиентов: замер привязан к сетевой карте, а не идёт через прокси\n— подключение не падает с «Профиль повреждён» на свежей установке\n— удалённое устройство больше не возвращается в список"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.8/LiveTurbo-Setup-1.0.8-amd64.exe",
+  "sha256": "01edb4c1bf5e59a4540629cc4fbb6cf61641f93bffc7e0b2105696df19feba2d",
+  "notes": "— после обновления приложение снова открывается само\n— кнопка «Веб-кабинет» открывает кабинет в браузере\n— пинг как в других клиентах"
 }
