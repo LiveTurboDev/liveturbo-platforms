@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.0.9",
+  "versionCode": 11,
+  "versionName": "1.0.10",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.9/LiveTurbo-Setup-1.0.9-amd64.exe",
-  "sha256": "b0a159d84256ec5064a4b77f9c44b7a6ea8cbd694346b95fdfb2eade8001934d",
-  "notes": "— обновление докачивается на медленном интернете\n— после обновления приложение открывается само\n— кнопка «Веб-кабинет» снова работает"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.10/LiveTurbo-Setup-1.0.10-amd64.exe",
+  "sha256": "de2d7122b39ec8a7f688628a093d66734b21625553177cbf3ed17d8f82e92323",
+  "notes": "— вход через Telegram: бот открывается сам, как на телефоне\n— ждём подтверждения все 5 минут\n— если ссылка не открылась, видно причину и есть «Скопировать»"
 }
