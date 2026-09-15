@@ -14,7 +14,7 @@
 
 | Платформа | Ссылка | Примечание |
 |-----------|--------|------------|
-| 💻 **Windows 10/11** (64-бит) | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) | Версия 1.0.10 · 24 МБ · обновляется прямо в приложении |
+| 💻 **Windows 10/11** (64-бит) | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) | Версия 1.0.11 · 24 МБ · обновляется прямо в приложении |
 | 🤖 **Android** (Google Play) | [Установить](https://play.google.com/store/apps/details?id=ru.liveturbo.app) | Рекомендуется — автообновление через Маркет |
 | 🤖 **Android** (APK) | [Live Turbo 0.7.11](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v0.7.11) | Для устройств без Google Play |
 | 🍏 **iOS** | 🛠 в разработке | — |
@@ -56,7 +56,7 @@ APK-версия обновляется сама: приложение пров�
 Get-FileHash .\LiveTurbo-Setup-amd64.exe -Algorithm SHA256
 ```
 
-Сумма версии 1.0.10: `de2d7122b39ec8a7f688628a093d66734b21625553177cbf3ed17d8f82e92323`
+Сумма версии 1.0.11: `3a9c301fe44816e117fda58415c2e7f908040da00478927c6d5b39ff29d815a6`
 
 ---
 
