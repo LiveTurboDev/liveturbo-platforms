@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "1.0.12",
+  "versionCode": 14,
+  "versionName": "1.0.13",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.12/LiveTurbo-Setup-1.0.12-amd64.exe",
-  "sha256": "2b6275478a40fc8b863aa919b244fdb405b9a2a9265523a15254ec8d2346c9f7",
-  "notes": "— проверка обновлений раз в 2 часа, уведомление один раз на версию\n— видно, если обновление не установилось\n— не сыплет уведомлениями о старых обращениях при входе\n— поправлена вёрстка входа через Telegram"
+  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.13/LiveTurbo-Setup-1.0.13-amd64.exe",
+  "sha256": "d838b84f95fe5c7e0d6d54a1d6890024d5ef3ee869da56aa1bd06116f4c78735",
+  "notes": "— свежее ядро Xray 26.10.10\n— автовыбор не переподключается по кругу, когда лежит один из его серверов\n— с замолчавшего сервера автовыбор сразу уводит соединения на живой"
 }
