@@ -14,9 +14,9 @@
 
 | Платформа | Ссылка | Примечание |
 |-----------|--------|------------|
-| 💻 **Windows 10/11** (64-бит) | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) | Версия 1.0.12 · 24 МБ · обновляется прямо в приложении |
+| 💻 **Windows 10/11** (64-бит) | [Скачать установщик](https://github.com/LiveTurboDev/liveturbo-platforms/releases/latest/download/LiveTurbo-Setup-amd64.exe) | Версия 1.0.13 · 25 МБ · обновляется прямо в приложении |
 | 🤖 **Android** (Google Play) | [Установить](https://play.google.com/store/apps/details?id=ru.liveturbo.app) | Рекомендуется — автообновление через Маркет |
-| 🤖 **Android** (APK) | [Live Turbo 0.7.11](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v0.7.11) | Для устройств без Google Play |
+| 🤖 **Android** (APK) | [Live Turbo 1.0.1](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v1.0.1) | Для устройств без Google Play |
 | 🍏 **iOS** | 🛠 в разработке | — |
 | 🍎 **macOS** | 🛠 в разработке | — |
 
@@ -37,7 +37,7 @@
 
 ## Установка APK (Android)
 
-1. Скачайте `.apk` из [релиза 0.7.11](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v0.7.11).
+1. Скачайте `.apk` из [релиза 1.0.1](https://github.com/LiveTurboDev/liveturbo-platforms/releases/tag/v1.0.1) или с [нашей страницы](https://app.liveturbo.ru/get).
 2. Откройте файл — Android предложит разрешить установку из этого источника, подтвердите.
 3. На Xiaomi/MIUI при первом запуске может потребоваться отключить «Оптимизацию MIUI» — подробности в приложении.
 
@@ -56,7 +56,7 @@ APK-версия обновляется сама: приложение пров�
 Get-FileHash .\LiveTurbo-Setup-amd64.exe -Algorithm SHA256
 ```
 
-Сумма версии 1.0.12: `2b6275478a40fc8b863aa919b244fdb405b9a2a9265523a15254ec8d2346c9f7`
+Сумма версии 1.0.13: `d838b84f95fe5c7e0d6d54a1d6890024d5ef3ee869da56aa1bd06116f4c78735`
 
 ---
 
