@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.0.13",
+  "versionCode": 16,
+  "versionName": "1.0.15",
   "arch": "amd64",
-  "url": "https://github.com/LiveTurboDev/liveturbo-platforms/releases/download/desktop-v1.0.13/LiveTurbo-Setup-1.0.13-amd64.exe",
-  "sha256": "d838b84f95fe5c7e0d6d54a1d6890024d5ef3ee869da56aa1bd06116f4c78735",
-  "notes": "— свежее ядро Xray 26.10.10\n— автовыбор не переподключается по кругу, когда лежит один из его серверов\n— с замолчавшего сервера автовыбор сразу уводит соединения на живой"
+  "url": "https://app.liveturbo.ru/u/LiveTurbo-Setup-1.0.15-amd64.exe",
+  "sha256": "c3e588c8930ca6f300b2a7ac37d6b2cbe7132f2a9459fe124a3688a1587749e3",
+  "notes": "Исправлено ложное «подписка истекла» на живом аккаунте. Ядро Xray 26.11.9."
 }
