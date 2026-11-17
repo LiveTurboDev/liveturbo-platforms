@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.0.15",
+  "versionCode": 17,
+  "versionName": "1.0.16",
   "arch": "amd64",
-  "url": "https://app.liveturbo.ru/u/LiveTurbo-Setup-1.0.15-amd64.exe",
-  "sha256": "c3e588c8930ca6f300b2a7ac37d6b2cbe7132f2a9459fe124a3688a1587749e3",
-  "notes": "Исправлено ложное «подписка истекла» на живом аккаунте. Ядро Xray 26.11.9."
+  "url": "https://app.liveturbo.ru/u/LiveTurbo-Setup-1.0.16-amd64.exe",
+  "sha256": "041e01ed77e336b1da98bb23ce4b7cf04684e7f67a075e5c68ac2ad508c815b2",
+  "notes": "В шапке приложения теперь LIVETURBO.RU."
 }
